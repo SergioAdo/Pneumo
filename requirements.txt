@@ -1,4 +1,4 @@
-tensorflow==1.15
+tensorflow==2.6.4
 keras==2.3.1
 itsdangerous==1.1.0
 Jinja2==2.11.1
